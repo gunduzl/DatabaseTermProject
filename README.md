@@ -2,7 +2,8 @@ Here’s a detailed **README** file for your project based on the 20 files provi
 
 ---
 
-![alt text](diagram.png)
+![alt text](image.png)
+
 
 
 # Exam Planning System
@@ -108,7 +109,10 @@ This project demonstrates proficiency in SQL through extensive use of database i
    - Navigate to `http://localhost/exam-planning-system/index.php`.
 
 ## Screenshots
-Add screenshots of key pages (login, schedule management, exam details, etc.) to visually represent the project.
+
+![alt text](diagram.png)
+
+
 
 ---
 
