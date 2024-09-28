@@ -1,4 +1,3 @@
-Here’s a detailed **README** file for your project based on the 20 files provided:
 
 ---
 
@@ -116,4 +115,3 @@ This project demonstrates proficiency in SQL through extensive use of database i
 
 ---
 
-This README file is detailed enough to showcase the functionality of your project, the SQL proficiency involved, and the scenarios the system supports. You can update it further as needed for your GitHub repository.
